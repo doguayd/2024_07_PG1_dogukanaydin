@@ -9,8 +9,8 @@ public class Q01 {
         System.out.print("Enter a degree in Celcius: ");
         double celsius = input.nextDouble();
 
-        double Fahrenheit = (9.0 / 5) * celsius + 32;
+        double fahrenheit = (9.0 / 5) * celsius + 32;
 
-        System.out.println(celsius + "Celsius is " + Fahrenheit + " Fahrenheit.");
+        System.out.println(celsius + "Celsius is " + fahrenheit + " Fahrenheit.");
     }
 }

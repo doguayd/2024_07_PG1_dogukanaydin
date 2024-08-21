@@ -9,8 +9,8 @@ public class Q04 {
         System.out.print("Enter a number in pounds: ");
         double pound = input.nextDouble();
 
-        double Kilogram = 0.454 * pound;
+        double kilogram = 0.454 * pound;
 
-        System.out.println(pound + " pounds is " + Kilogram + " kilograms.");
+        System.out.println(pound + " pounds is " + kilogram + " kilograms.");
     }
 }
