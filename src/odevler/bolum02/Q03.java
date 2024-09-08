@@ -9,8 +9,8 @@ public class Q03 {
         System.out.print("Enter a value for feet: ");
         double feet = input.nextDouble();
 
-        double Fahrenheit = 0.305 * feet;
+        double fahrenheit = 0.305 * feet;
 
-        System.out.println(feet + " feet is " + Fahrenheit + " meter.");
+        System.out.println(feet + " feet is " + fahrenheit + " meter.");
     }
 }
